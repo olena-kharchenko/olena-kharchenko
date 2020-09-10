@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+**If you are reading this, then you are trying to find something in my repository** :stuck_out_tongue_winking_eye:
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=olena-kharchenko&show_icons=true&theme=radical)
+
+![Profile views](https://gpvc.arturio.dev/olena-kharchenko)
 <!--
 **olena-kharchenko/olena-kharchenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
