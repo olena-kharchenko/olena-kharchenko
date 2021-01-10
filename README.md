@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**If you are reading this, then you are trying to find something in my repository** :stuck_out_tongue_winking_eye:
+**e-mail: harchenko.es1990@gmail.com** 
 
 <img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> 
